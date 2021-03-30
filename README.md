@@ -4,13 +4,14 @@ Este proyecto es una demo del juego buscaminas
 
 ## Antes de jugar:
 
-Antes de poder correr el proyecto se necesita:\
- - Tener una version de node instalada\
- - Instalar el proyecto en un directorio local - instalar las dependencias utilizadas con `npm install`
+Antes de poder correr el proyecto se necesita: \
+
+- Tener una version de node instalada \
+- Instalar el proyecto en un directorio local - instalar las dependencias utilizadas con `npm install`
 
 ### `npm start`
 
-Runs the app in the development mode y permite jugar.\
+Corre el proyecto en modo development y permite jugar.\
 Abrir [http://localhost:3000](http://localhost:3000) para visualizarlo en el buscador.
 
 ### `npm test`
