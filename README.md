@@ -21,6 +21,9 @@ Ejecuta los tests relizados
 
 ## A tener en cuenta
 
-El guardado de la partida se realiza en la memoria local del buscado utilizado.
+Si no hay una partida guardada el memoria local, por defecto se crea un tablero de 10x10 con 20 minas. En los ajustes se pueden modificar estos parametros y apretando el botón de `Juego Nuevo` se creará un nuevo tablero con las características introducidas.
 
+Se puede volver a empezar la partida con un tablero de las mismas características apretando el botón `reset`.
+
+El guardado de la partida se realiza en la memoria local del buscado utilizado.\
 Una vez que una partida previamente guardada fue cargada, ésta se eliminará de memoria por lo que si se quiere guardar se lo deberá hacer nuevamente.
