@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,AAAC,CACL,SAAS,CAAE,IAAI,CAKhB,AAJE,AAAD,YAAO,AAAC,CACN,SAAS,CAAE,KAAK,CAChB,WAAW,CAAE,IAAI,CAClB,AAGH,AAAA,aAAa,AAAC,CACZ,aAAa,CAAE,IAAI,CACpB,AAED,AAAA,MAAM,AAAC,CACL,SAAS,CAAE,KAAK,CAChB,WAAW,CAAE,IAAI,CAClB,AAED,AAAA,aAAa,AAAC,CACZ,SAAS,CAAE,KAAK,CAChB,WAAW,CAAE,IAAI,CAClB",
+    "sources": [
+        "SettingsContainer.scss"
+    ],
+    "names": [],
+    "file": "SettingsContainer.css"
+}
