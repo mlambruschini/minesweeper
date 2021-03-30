@@ -1,4 +1,4 @@
-# Introduction
+# Introducción
 
 Este proyecto es una demo del juego buscaminas
 
