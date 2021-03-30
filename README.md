@@ -4,9 +4,10 @@ Este proyecto es una demo del juego buscaminas
 
 ## Antes de jugar:
 
-Antes de poder correr el proyecto se necesita: \
+Antes de poder correr el proyecto se necesita:
 
-- Tener una version de node instalada \
+- Tener una version de node instalada
+
 - Instalar el proyecto en un directorio local - instalar las dependencias utilizadas con `npm install`
 
 ### `npm start`
